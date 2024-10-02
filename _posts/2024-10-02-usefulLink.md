@@ -11,5 +11,5 @@ tags:
 [java api](https://docs.oracle.com/javase/8/docs/api/)
 
 # others
-[pattern monster](https://pattern.monster/)
+[pattern monster](https://pattern.monster/)  
 [database diagram](https://dbdiagram.io/home)
