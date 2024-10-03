@@ -12,4 +12,6 @@ tags:
 
 # others
 [pattern monster](https://pattern.monster/)  
-[database diagram](https://dbdiagram.io/home)
+[database diagram](https://dbdiagram.io/home)  
+[Bored API Documentation](https://bored-api.appbrewery.com/)
+
