@@ -1,5 +1,5 @@
 ---
-title: "Useful Links for Study and Coding"
+title: "Useful Links for Studying and Coding"
 date: 2024-10-02 23:07:00 +0100
 categories:
   [study, resource]
