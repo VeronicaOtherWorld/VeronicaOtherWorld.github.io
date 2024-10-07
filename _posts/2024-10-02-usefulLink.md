@@ -18,3 +18,5 @@ tags:
 [database diagram](https://dbdiagram.io/home)  
 [Bored API Documentation](https://bored-api.appbrewery.com/)
 
+#API
+[rapidapi](https://rapidapi.com/hub)
