@@ -23,3 +23,4 @@ tags:
 
 # Database
 [mockaroo](https://www.mockaroo.com/)
+[SQL Murder Mystery](https://mystery.knightlab.com/)
