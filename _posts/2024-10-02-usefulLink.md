@@ -24,3 +24,6 @@ tags:
 # Database
 [mockaroo](https://www.mockaroo.com/)  
 [SQL Murder Mystery](https://mystery.knightlab.com/)
+
+# games
+(A command-line murder mystery)[https://github.com/veltman/clmystery?tab=readme-ov-file]
