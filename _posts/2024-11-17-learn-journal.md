@@ -1,6 +1,6 @@
 ---
 title: "11/17 learning journal"
-date: 2024-11-17 22:07:00 +0100
+date: 2024-11-17 22:20:00 +0100
 categories:
   [study, journal]
 tags: 
