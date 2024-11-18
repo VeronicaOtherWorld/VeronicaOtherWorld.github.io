@@ -1,5 +1,5 @@
 # My blog link
-[https://luhuini.github.io/]
+[ohter world](https://luhuini.github.io/)
 
 # Chirpy Starter
 
