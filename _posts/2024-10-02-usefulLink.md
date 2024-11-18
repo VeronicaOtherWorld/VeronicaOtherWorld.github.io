@@ -26,4 +26,4 @@ tags:
 [SQL Murder Mystery](https://mystery.knightlab.com/)
 
 # games
-(A command-line murder mystery)[https://github.com/veltman/clmystery?tab=readme-ov-file]
+[A command-line murder mystery](https://github.com/veltman/clmystery?tab=readme-ov-file)  
