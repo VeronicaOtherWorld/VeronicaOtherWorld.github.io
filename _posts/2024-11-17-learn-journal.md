@@ -16,4 +16,4 @@ For instance,  while we coding, we should focus on a pieces of code, to maintain
 Today, I have finished the chapter 9, a small house rent system. I can’t wait to move forward with the program!  
 
 Here is the link of this application.  
-[house rent system](https://github.com/luhuini/hanshunping-java/tree/master/src/com/houseRent)
+[house rent system](https://github.com/luhuini/hanshunping-java/tree/main/chapter08/src/com/houseRent)
