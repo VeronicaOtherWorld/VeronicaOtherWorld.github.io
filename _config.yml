@@ -225,4 +225,4 @@ jekyll-archives:
     category: /categories/:name/
 
 # _config.yml
-favicon: /_site/assets/img/favicons/favicon.ico
+favicon: /assets/img/favicons/favicon.ico
