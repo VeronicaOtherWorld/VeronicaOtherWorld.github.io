@@ -13,7 +13,7 @@ It's dropped a lot today.
 
 But I still keep learning new knowledge.  
 
-The topics of today are dode block, final, abstract class and interface. I have not written so much notes, because I was not having a plenty of time...  
+The topics of today are code block, final, abstract class and interface. I have not written so much notes, because I was not having a plenty of time...  
 
 At least, I wrote something about interface.
 
