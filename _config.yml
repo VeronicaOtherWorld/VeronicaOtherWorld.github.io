@@ -223,6 +223,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-# _config.yml
-favicon: /assets/img/favicons/favicon.ico
+# # _config.yml
+# favicon: /assets/img/favicons/favicon.ico
