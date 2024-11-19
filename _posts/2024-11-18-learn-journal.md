@@ -19,5 +19,6 @@ At least, I wrote something about interface.
 
 Bravo, not too bad.
 
-Here is the link of this application.  
+Here is the link of the note.   
+
 [abstract & interface](https://github.com/VeronicaOtherWorld/hanshunping-java/tree/main/chapter10/src/com)
