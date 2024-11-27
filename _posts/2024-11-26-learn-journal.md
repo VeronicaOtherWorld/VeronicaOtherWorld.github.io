@@ -6,7 +6,7 @@ categories:
 tags: 
   - [journal, leetCode]
 ---
-## Exploring Beginner Algorithms: Challenges, Insights, and the Joy of Problem-Solving”  
+## Exploring Beginner Algorithms: Challenges, Insights, and the Joy of Problem-Solving  
 Today, I worked on four new beginner-level algorithm problems. The experience was truly fascinating. I’m still quite inexperienced and often struggle to write the solutions myself, but I really enjoy the process of racking my brain. The moment I see the instructor’s explanation and suddenly everything clicks—it’s like a whole new world unfolding before me. I’m completely hooked on this feeling.  
 
 ### The first problem  
