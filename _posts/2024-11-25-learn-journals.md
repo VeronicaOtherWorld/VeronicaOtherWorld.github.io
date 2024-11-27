@@ -20,7 +20,7 @@ That said, time is limited, and I’ve decided to make a change. I’m shifting 
 In the new course, the instructor encourages solving LeetCode problems. It’s a real challenge, but I’m optimistic that tackling algorithm problems will build my confidence. Recently, I worked on two examples:  
 	•	Palindrome Number Verification  
 	•	Division Using Subtraction  
-You can find them here: [Code Examples](https://github.com/VeronicaOtherWorld/heima-java/tree/main/src/chapter03_conditon)  
+You can find them here: [Code Examples](https://github.com/VeronicaOtherWorld/java-heima/tree/main/chapter03-condition/src)  
 
 I plan to revisit specific content later, aligning with the pace of my school classes. This way, I can balance both self-learning and formal education.  
 
