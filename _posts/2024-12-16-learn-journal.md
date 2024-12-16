@@ -2,9 +2,11 @@
 title: "12/16 Reflections, Growth, and New Beginnings"
 date: 2024-12-16 22:00:00 +0100
 categories:
-  [study, journal]
-tags: 
-  - [journal, leetCode]
+  - study
+  - journal
+tags:
+  - journal
+  - leetCode
 ---
 
 ## Reflection and Learning  
