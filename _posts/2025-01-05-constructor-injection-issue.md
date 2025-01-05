@@ -15,7 +15,7 @@ Today, while learning a framework, I encountered a frustrating issue: the instan
 
 The tutorial video I was following didn’t address this situation, so I turned to GPT for help. After consulting, I finally identified the root cause of the problem: the issue was caused by the no-argument constructor.  
 
-I had created both a no-argument constructor and a parameterized constructor, following the standard JavaBean conventions. However, Spring prioritizes using the no-argument constructor to instantiate the GameRunner class. Since the no-argument constructor did not inject the GamingConsole interface, the game field ended up being null.  
+I had created both a no-argument constructor and a parameterized constructor, following the standard JavaBean conventions. However, Spring prioritizes using the no-argument constructor to instantiate the GameRunner class. Since the no-argument constructor does not allow Spring to inject an implementation of the GamingConsole interface, the game field was left uninitialized (null).    
 
 ## Solution  
 
