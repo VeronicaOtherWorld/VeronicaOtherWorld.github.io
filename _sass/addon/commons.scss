@@ -539,10 +539,10 @@ main {
     // animation: shimmer 1.3s infinite;
   }
 
-  @-webkit-keyframes shimmer {
-    0% {
-      transform: translateX(-100%);
-    }
+  // @-webkit-keyframes shimmer {
+  //   0% {
+  //     transform: translateX(-100%);
+  //   }
 
     100% {
       transform: translateX(100%);
