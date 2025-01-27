@@ -7,7 +7,7 @@ tags:
   - [journal]
 ---
 
-<img src="assets/diary-pic/27-01-2025-stars.jpg" alt="Diary Image" style="border: 1px solid black; border-radius: 2px;"/>
+<img src="assets/diary-pic/27-01-2025-stars.jpg" alt="Diary Image" style="border: 1px solid black; border-radius: 2px; animation: none;"/>
 
 This photo was taken on an Irish night, where the stars shine clear and bright. GPT suggested this could be Orion. Perhaps I am walking through the darkness, but I am grateful for these diamond-like stars lighting my way.  
 
