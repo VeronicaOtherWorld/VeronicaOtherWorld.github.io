@@ -11,7 +11,11 @@ Last week, during a chat with a friend, we decided to start working on an affili
 
 The reason I initially started learning Java was that the APIs provided by others often crashed, so I wanted to write my own. After all this time, I may not have fully mastered Java yet, but I’m ready to dive in and gain hands-on experience.
 
-Based on my current knowledge, I have already created MySQL tables and linked one of them to my Java project. The basic functionalities are working, and I have successfully tested them using Postman. My next step is to implement similar functionality for three other database tables, ensuring they reach the same level of completion. Additionally, I need to write API documentation for my frontend developer friend.
+Based on my current knowledge, I have already created MySQL tables and linked one of them to my Java project. The basic functionalities are working, and I have successfully tested them using Postman. 
+
+<img src="assets/diary-pic/2025-02-11.jpg" alt="Diary Image" style="border: 1px solid black; border-radius: 2px; animation: none;"/>
+
+My next step is to implement similar functionality for three other database tables, ensuring they reach the same level of completion. Additionally, I need to write API documentation for my frontend developer friend.
 
 Even though I have completed some of the work, I still feel there are gaps in my understanding. That’s why I plan to continue learning Spring in a more structured way through an Udemy course, focusing on areas where I need deeper knowledge.
 
