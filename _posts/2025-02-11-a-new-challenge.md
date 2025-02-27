@@ -1,6 +1,6 @@
 ---
 title: "02/11 Diving into Backend Development: A New Challenge"
-date: 2025-01-27 23:20:00 +0100
+date: 2025-02-11 23:20:00 +0100
 categories:
   [study, journal]
 tags: 
