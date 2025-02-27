@@ -7,9 +7,6 @@ tags:
   - [journal, react]
 ---
 
-
-Here’s your diary entry translated into B2-level English while maintaining the original tone and meaning:
-
 Lately, I’ve been busy preparing for various exams and assignments. It feels quite painful, but maybe this is proof that I’m truly studying hard. After all, encountering and absorbing new knowledge is always uncomfortable at first.
 
 But life still needs to be recorded properly. Seeing my own growth through steady progress is the best part of it all.
