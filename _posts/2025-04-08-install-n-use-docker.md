@@ -1,6 +1,6 @@
 ---
 title: "04/08 安装使用docker"
-date: 2025-04-08 17:10:00 +0100
+date: 2025-04-08 16:10:00 +0100
 categories:
   [study, journal]
 tags: 
