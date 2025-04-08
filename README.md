@@ -1,6 +1,10 @@
 # My blog link
 [ohter world](https://veronicaotherworld.github.io/)
 
+``` bash
+$ bundle exec jekyll s
+```
+
 # Chirpy Starter
 
 test
