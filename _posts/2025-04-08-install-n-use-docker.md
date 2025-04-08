@@ -57,7 +57,7 @@ ps aux | grep -i docker | awk '{print $2}' | sudo xargs kill -9 2>/dev/null
 
 ```
 
-2. 改用 [OrbStack](https://orbstack.dev)：无需 root 权限，不被拦截，兼容 Apple Silicon
+(or) 改用 [OrbStack](https://orbstack.dev)：无需 root 权限，不被拦截，兼容 Apple Silicon
 
 > 💡已恢复使用 Docker Desktop，支持图形界面与 CLI 操作。
 
